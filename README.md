@@ -1,4 +1,4 @@
-# Image Processing self-learning using `Scikit Image`
+# Image Processing self-learning using `Scikit-Image`
 https://scikit-image.org/docs/stable/api/skimage.html
 
 Here I explore:
